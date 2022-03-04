@@ -1,0 +1,14 @@
+numpy
+gdal
+pandas
+shapely
+fiona
+pyproj
+rtree
+geopandas
+matplotlib
+mapclassify
+folium
+rasterio
+rioxarray
+rasterstats

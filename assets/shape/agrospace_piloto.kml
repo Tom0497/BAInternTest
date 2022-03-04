@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="file133ed00ba" id="file133ed00ba">
+	<SimpleField name="Sector" type="float"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="area" type="float"></SimpleField>
+</Schema>
+<Folder><name>file133ed00ba</name>
+  <Placemark>
+	<name>Punta estero</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">1</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="area">41369.5044600293</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9681,-39.7894 -72.9652,-39.7904 -72.9669,-39.7923 -72.9682,-39.7904 -72.9681,-39.7894</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Laurel</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">1</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="area">22633.6028090119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9654,-39.7942 -72.9669,-39.7923 -72.9662,-39.7916 -72.9647,-39.7935 -72.9654,-39.7942</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Patagua</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">1</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="area">24631.0635953322</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9647,-39.7935 -72.9662,-39.7916 -72.9653,-39.7906 -72.965,-39.7907 -72.9651,-39.7911 -72.9651,-39.7915 -72.964,-39.7927 -72.9647,-39.7935</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Lado estero</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">1</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="area">22348.7613920644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9648,-39.7907 -72.9647,-39.7906 -72.9639,-39.7909 -72.9629,-39.7916 -72.9639,-39.7927 -72.9643,-39.7922 -72.9651,-39.7914 -72.965,-39.7911 -72.9648,-39.7907</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Maiz 2</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">2</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="area">80783.8751554787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9654,-39.7943 -72.9642,-39.793 -72.96,-39.7951 -72.9611,-39.7965 -72.9616,-39.7962 -72.9632,-39.7956 -72.9654,-39.7943</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Maiz 1</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">2</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="area">61006.423482649</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.96,-39.795 -72.9642,-39.793 -72.9629,-39.7916 -72.9617,-39.7928 -72.9616,-39.7931 -72.9616,-39.7933 -72.9614,-39.7929 -72.9614,-39.7929 -72.9599,-39.7934 -72.96,-39.7936 -72.9593,-39.7939 -72.9592,-39.7943 -72.9597,-39.7948 -72.9598,-39.7946 -72.9599,-39.7946 -72.96,-39.7944 -72.96,-39.7942 -72.96,-39.794 -72.96,-39.7939 -72.9601,-39.794 -72.9601,-39.7942 -72.9601,-39.7942 -72.9602,-39.7944 -72.9602,-39.7945 -72.96,-39.7948 -72.9598,-39.7948 -72.96,-39.795</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Pero a</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">2</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="area">57770.9349063784</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9602,-39.7955 -72.9592,-39.7943 -72.9583,-39.7948 -72.9582,-39.7952 -72.9581,-39.7955 -72.9578,-39.7956 -72.9577,-39.7955 -72.9578,-39.7953 -72.9579,-39.7952 -72.9576,-39.795 -72.9569,-39.7943 -72.9562,-39.7947 -72.9559,-39.7952 -72.9557,-39.7953 -72.9574,-39.7969 -72.9602,-39.7955</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Los bolos a</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">2</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="area">37656.9618263543</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9602,-39.7957 -72.9576,-39.797 -72.9588,-39.7983 -72.9599,-39.7976 -72.9597,-39.7972 -72.961,-39.7965 -72.9602,-39.7957</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>El pero b</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">4</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="area">57244.9253858924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9557,-39.7953 -72.9529,-39.7993 -72.9545,-39.7989 -72.9556,-39.7977 -72.9574,-39.7969 -72.9557,-39.7953</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Los bolos b</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">4</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="area">58528.7325432301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9575,-39.7969 -72.956,-39.7979 -72.9558,-39.7977 -72.9546,-39.7989 -72.9546,-39.7991 -72.9553,-39.799 -72.956,-39.7992 -72.9573,-39.7991 -72.9585,-39.7994 -72.9592,-39.7987 -72.9575,-39.7969</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Las piedras</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">3</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="area">28717.3628896475</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.96,-39.7977 -72.9589,-39.7983 -72.9592,-39.7988 -72.9588,-39.7991 -72.9592,-39.7992 -72.9589,-39.7995 -72.9595,-39.7995 -72.9604,-39.7995 -72.9617,-39.7995 -72.96,-39.7977</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Peña a</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">4</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="area">25056.9221768677</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9538,-39.7971 -72.9531,-39.7972 -72.9526,-39.7974 -72.9508,-39.7982 -72.9524,-39.7992 -72.9538,-39.7971</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Peña b</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">4</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="area">46023.3971952647</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9523,-39.7992 -72.9506,-39.7982 -72.9493,-39.7995 -72.9483,-39.8005 -72.947,-39.8018 -72.9489,-39.8009 -72.9505,-39.8003 -72.9501,-39.8 -72.9512,-39.7994 -72.9514,-39.7994 -72.9516,-39.7999 -72.9523,-39.7992</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>Brazo Muerto</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">3</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="area">65946.3865975365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9642,-39.7985 -72.9624,-39.7964 -72.9615,-39.7968 -72.9608,-39.7972 -72.9601,-39.7976 -72.9618,-39.7994 -72.9623,-39.7991 -72.9624,-39.7993 -72.9629,-39.7993 -72.9636,-39.7991 -72.9642,-39.7985</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>La isla</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#file133ed00ba">
+		<SimpleData name="Sector">3</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="area">67089.1220330074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-72.9624,-39.7964 -72.9642,-39.7984 -72.9645,-39.7984 -72.965,-39.798 -72.966,-39.7968 -72.9667,-39.7961 -72.9668,-39.7954 -72.9668,-39.7945 -72.9667,-39.7945 -72.9664,-39.7949 -72.9659,-39.7952 -72.9654,-39.7954 -72.9651,-39.7957 -72.9648,-39.7958 -72.9646,-39.7961 -72.9644,-39.7962 -72.9637,-39.7962 -72.9624,-39.7964</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
