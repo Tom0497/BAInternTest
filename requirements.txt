@@ -12,3 +12,6 @@ folium
 rasterio
 rioxarray
 rasterstats
+contextily
+matplotlib-scalebar
+statsmodels
