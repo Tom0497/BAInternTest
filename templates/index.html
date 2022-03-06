@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Data API Index</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap styling and responsive design import (both CSS and JS libraries required) -->
+  <link rel="stylesheet" href="../static/vendor/bootstrap/css/bootstrap.min.css">
+  <script defer src="../static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+<main class="vh-100 d-flex justify-content-center align-items-center">
+    <div class="border border-4 border-dark rounded py-2 px-4 w-75">
+      <h1 class="display-4 text-center">API de datos</h1>
+      <hr>
+      <p class="lead">
+        A continuación se pueden consultar los datos de NDVI por potrero según los registros de archivos.
+        Se puede consultar el promedio por potrero para cada fecha, como también la desviación estándar para
+        cada fecha por potrero.
+      </p>
+      <hr>
+      <a href="data/mean" class="btn btn-primary">Promedios NDVI</a>
+      <a href="data/std" class="btn btn-success">Desviacion estándar NDVI</a>
+    </div>
+</main>
+
+</body>
+</html>
