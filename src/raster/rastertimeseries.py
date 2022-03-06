@@ -47,6 +47,15 @@ class RasterTimeSeries:
         return res
 
     @property
+    def dataframe(self) -> Optional[pd.DataFrame]:
+        """
+        :return:
+            dataframe of timeseries per zone from read CSV.
+        """
+
+        return self._series
+
+    @property
     def datetimes(self) -> List[Tuple]:
         """
         :return:
